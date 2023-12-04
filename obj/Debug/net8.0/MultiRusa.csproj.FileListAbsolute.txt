@@ -1,0 +1,14 @@
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\bin\Debug\net8.0\MultiRusa.exe
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\bin\Debug\net8.0\MultiRusa.deps.json
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\bin\Debug\net8.0\MultiRusa.runtimeconfig.json
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\bin\Debug\net8.0\MultiRusa.dll
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\bin\Debug\net8.0\MultiRusa.pdb
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.AssemblyInfo.cs
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.dll
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\refint\MultiRusa.dll
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.pdb
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\MultiRusa.genruntimeconfig.cache
+C:\Users\user\Documents\CristianReyesPrueba\MultiRusa\obj\Debug\net8.0\ref\MultiRusa.dll
